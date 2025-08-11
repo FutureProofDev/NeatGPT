@@ -1,0 +1,35 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+
+# =========================
+# JavaScript / Frontend
+# =========================
+node_modules/
+dist/
+build/
+*.log
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary / Cache files
+# =========================
+*.tmp
+.cache/
